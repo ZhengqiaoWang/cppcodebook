@@ -62,7 +62,7 @@ cmake -v
 
 考虑到目前的网络较为混乱，特别是听说有小白因为不知道在哪儿下载`VSCode`而被骗钱，我专门写了这一节，这样一来就可以避免小白们花冤枉钱。
 
-`VSCode`的下载地址：[[https://code.visualstudio.com/](https://code.visualstudio.com/)](https://code.visualstudio.com/)
+`VSCode`的下载地址：[[https://code.visualstudio.com/]](https://code.visualstudio.com/)
 
 我们根据自己的实际开发环境下载，例如使用`Deepin`或者`Ubuntu`的就下载`.deb`安装包，使用`Windows`的就下载`.exe`安装包。下载完成后安装即可。
 
