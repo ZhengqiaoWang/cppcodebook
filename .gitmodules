@@ -1,3 +1,6 @@
 [submodule "cpp/project/JArgsParser"]
 	path = cpp/project/JArgsParser
 	url = git@github.com:ZhengqiaoWang/JArgsParser.git
+[submodule "cpp/1_prepare/1_3_dir"]
+	path = cpp/1_prepare/1_3_dir
+	url = git@github.com:ZhengqiaoWang/emptycppdirectory.git
